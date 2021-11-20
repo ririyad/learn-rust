@@ -7,3 +7,6 @@ I started learning Rust earlier, and for a good reason, couldn't continue it. Th
 The goals I am trying to obtain: 
 
 _*to be added*_
+
+### Repo Structure
+All codes will be under ``src`` directory, and for each day a new folder will be created.
