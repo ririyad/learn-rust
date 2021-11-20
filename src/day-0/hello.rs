@@ -1,5 +1,9 @@
 fn main() {
+
     println!("Hello from Rust");
+    
+    // here, println!() prints text to the console and it's "!" indicate that 
+    //its a macro rather than a function
     println!("Hello from Rust again");
     println!("{} days", 31);
 
