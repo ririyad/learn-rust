@@ -1,5 +1,6 @@
 Started doing [rustlings](https://github.com/rust-lang/rustlings). 
-Exercise Completed:
+
+## Exercise Completed:
 ------------------------
 - variables1
 - variables2
